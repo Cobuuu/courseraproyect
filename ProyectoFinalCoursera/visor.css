@@ -1,0 +1,10 @@
+body{ text-align: left; }
+
+.titulo{
+ background: yellow;
+ color: black;
+}
+
+.tres { background: initial; color: initial;}
+
+.tres span{ background: yellow; }
